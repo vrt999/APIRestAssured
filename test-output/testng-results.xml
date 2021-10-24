@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10396" started-at="2020-03-31T12:56:36Z" finished-at="2020-03-31T12:56:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10396" started-at="2020-03-31T12:56:36Z" finished-at="2020-03-31T12:56:46Z">
+      <class name="practice.GetReqSample">
+        <test-method status="PASS" signature="GetSample()[pri:0, instance:practice.GetReqSample@68c4039c]" name="GetSample" duration-ms="10053" started-at="2020-03-31T12:56:36Z" finished-at="2020-03-31T12:56:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetSample -->
+      </class> <!-- practice.GetReqSample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
